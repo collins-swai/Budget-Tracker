@@ -9,6 +9,8 @@ idea, any challenges you faced during development, and your approach to solving 
 
 To download click this [link](https://drive.google.com/file/d/1XQm6TRkJl-qzNUDeGeTATzZwtIuAxoDS/view?usp=sharing)
 
+Main [documentation](https://docs.google.com/document/d/1QrQKK271aWc-K8sPbP40V5neP6knSxDuUzR9f3k6T1M/edit?usp=sharing) for the app
+
 # iNetAfrica Interview Test.
 
 ## Mid-Level Developer Pre-screening test
@@ -86,6 +88,10 @@ First go to <a target="_blank" href="https://www.themoviedb.org/documentation/ap
   | Details Screen                                                                                                                       | Search movie screen                                                                                                                         |                                                                                                                    |
   | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
   | <img src="screenshots/details.jpg"/> | <img src="screenshots/search.jpg"/> | 
+
+
+## Thank you iNetAfrica
+I'd like to thank **iNetAfrica**, and *every single individual* that helped in bringing this learning experience. Thank you!
 
 
 
