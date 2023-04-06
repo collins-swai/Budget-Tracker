@@ -59,6 +59,7 @@ This project uses **BLoC** (business logic component) [BLoC](https://medium.com/
 * [Extension Methods](https://dart.dev/guides/language/extension-methods)
 * [Pull To Refresh](https://pub.dev/packages/liquid_pull_to_refresh) - Handle Pull to Refresh the Content
 * [Get It](https://pub.dev/packages/get_it) - A Dependency Injection
+* [Firebase](https://firebase.google.com) - Firebase auth using email and password
 
 ## How to run the App
 1. Clone this project.
@@ -68,9 +69,9 @@ This project uses **BLoC** (business logic component) [BLoC](https://medium.com/
 
 ## Project Screenshots
 - Projects starts from the splash screen and goes to the login page
-  | Splash screen                                                                                                                       | Login screen                                                                                                                         |                                                                                                                     |
+  | Splash screen                                                                                                                       | Registartion screen                                                                                                                         |    Login Screen                                                                                                                 |
   | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
-  | <img src="screenshots/Splash.jpg"/> | <img src="screenshots/login.jpg"/> | 
+  | <img src="screenshots/splash.jpg"/> | <img src="screenshots/register.jpg"/> | <img src="screenshots/login.jpg"/>
 
 
 
