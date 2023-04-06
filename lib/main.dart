@@ -2,6 +2,7 @@ import 'package:budget_tracker/presentation/bloc/movie_cubit/movie_cubit.dart';
 import 'package:budget_tracker/presentation/bloc/movie_details_cubit/movie_details_cubit.dart';
 import 'package:budget_tracker/presentation/bloc/movie_search_cubit/movie_search_cubit.dart';
 import 'package:budget_tracker/presentation/login_screen.dart';
+import 'package:budget_tracker/presentation/splash_screen.dart';
 import 'package:dio/dio.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
@@ -14,7 +15,8 @@ import 'data/network/movie_data_source.dart';
 import 'data/repository/movie_repository.dart';
 
 GetIt getIt = GetIt.instance;
-void main() async{
+
+void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
   await Hive.initFlutter();
@@ -27,12 +29,11 @@ void main() async{
   // getIt.registerLazySingleton<AppRouter>(() => AppRouter());
   getIt.registerLazySingleton<MovieDetailsCubit>(() => MovieDetailsCubit());
   getIt.registerLazySingleton<MovieRepository>(
-          () => MovieRepository(MovieDataSource()));
+      () => MovieRepository(MovieDataSource()));
 
   await getIt<HiveUtils>().initDb();
   runApp(const MyApp());
 }
-
 
 class MyApp extends StatefulWidget {
   const MyApp({super.key});
@@ -46,7 +47,7 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: LoginScreen(),
+      home: SplashScreen(),
     );
   }
 }
