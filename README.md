@@ -7,7 +7,7 @@ polished mobile app. We want to see how you integrate with an open-source API an
 and document your code. We would also like you to provide a brief document that describes your app
 idea, any challenges you faced during development, and your approach to solving them.
 
-To download click this [link](https://drive.google.com/file/d/16xIAX2m4Sx9XiyBmqfBMB0ZLJS9nG263/view?usp=sharing)
+To download click this [link](https://drive.google.com/file/d/1XQm6TRkJl-qzNUDeGeTATzZwtIuAxoDS/view?usp=sharing)
 
 # iNetAfrica Interview Test.
 
@@ -16,18 +16,24 @@ To download click this [link](https://drive.google.com/file/d/16xIAX2m4Sx9XiyBmq
 Timeline: 7 days
 
 ## Project Requirements
-The application should be built using the Flutter framework.
-The application should integrate with an open-source API.
-The application should be functional and demonstrate your ability to create a complete and polished mobile app.
-You should provide clear and concise documentation of your code.
-You should provide a brief document describing your app idea, any challenges you faced, and your approach to solving them.
-You should submit the code through a GitHub repository link.
-You should include screenshots of the application.
-You should also include an APK file for testing purposes.
+1. The application should be built using the Flutter framework.
+2. The application should integrate with an open-source API.
+3. The application should be functional and demonstrate your ability to create a complete and polished mobile app.
+4. You should provide clear and concise documentation of your code.
+5. You should provide a brief document describing your app idea, any challenges you faced, and your approach to solving them.
+6. You should submit the code through a GitHub repository link.
+7. You should include screenshots of the application.
+8. You should also include an APK file for testing purposes.
 
 ## Quick Start
 This is a normal flutter app. You should follow the instructions in the [official documentation](https://flutter.io/docs/get-started/install).
 This project uses **BLoC** (business logic component) [BLoC](https://medium.com/flutter-community/flutter-bloc-for-beginners-839e22adb9f5) to separate the business logic with UI itself.
+
+## Getting Started
+This application is using api of <a target="_blank" href="https://www.themoviedb.org/">themoviedb</a>, so before using it you have to create an api from <a  target="_blank" href="https://www.themoviedb.org/">themoviedb</a> and generate an API and apply it to this application, follow the below step to connect api with this app.
+
+First go to <a target="_blank" href="https://www.themoviedb.org/documentation/api">https://www.themoviedb.org/documentation/api</a>, and follow the API Documentation, you will get the API Code.
+
 
 ## Modularization Structure 🔥
 # Root Project
