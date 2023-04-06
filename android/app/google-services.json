@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "360251969948",
+    "project_id": "inetafrica-6a87b",
+    "storage_bucket": "inetafrica-6a87b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360251969948:android:c447602e1dd5bc2b963859",
+        "android_client_info": {
+          "package_name": "com.example.budgettracker.budget_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360251969948-3vqn9ta1jsjh0vfusmgrq4qlho44k1k7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.budgettracker.budget_tracker",
+            "certificate_hash": "68aa3b59ef470c948339ce3266221808f8c7dde8"
+          }
+        },
+        {
+          "client_id": "360251969948-qm6l9ujc94p3imab36q377orjlc7kbol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE5Cqketyfw4P0Hzl7rtzkF1tNV8ccZ1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360251969948-qm6l9ujc94p3imab36q377orjlc7kbol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
