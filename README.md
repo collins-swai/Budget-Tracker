@@ -75,7 +75,7 @@ This project uses **BLoC** (business logic component) [BLoC](https://medium.com/
 - Projects starts from the splash screen and goes to the login page
     | Upcoming Movie screen                                                                                                                       | Coming Soon Movie screen                                                                                                                         |    Top Rated Screen                                                                                                                 |
     | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
-    | <img src="screenshots/popula.jpg"/> | <img src="screenshots/Coming.jpg"/> | <img src="screenshots/toprated.jpg"/>
+    | <img src="screenshots/popular.jpg"/> | <img src="screenshots/Coming.jpg"/> | <img src="screenshots/toprated.jpg"/>
 
 
 
